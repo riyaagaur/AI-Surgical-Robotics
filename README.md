@@ -11,5 +11,3 @@ This project focuses on detecting surgical anomalies using machine learning to i
 ## Results
 - Achieved 95% accuracy in detecting anomalies using a Random Forest Classifier.
 
-## License
-This project is licensed under the MIT License.
