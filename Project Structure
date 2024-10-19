@@ -1,0 +1,19 @@
+/ai-surgical-robotics
+│
+├── data/
+│   ├── simulated_surgery_data.csv
+│
+├── notebooks/
+│   └── preprocessing.ipynb
+│   └── ml_model_training.ipynb
+│   └── anomaly_detection_evaluation.ipynb
+│
+├── models/
+│   └── surgery_anomaly_model.pkl
+│
+├── results/
+│   └── performance_report.md
+│
+├── requirements.txt
+├── analysis.py
+└── README.md
